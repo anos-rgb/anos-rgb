@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=ANOS%20RGB&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bot%20Creator%20%7C%20OSINT%20Expert&descAlignY=55&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=250&section=header&text=ANOS%20RGB&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Bot%20Creator%20|%20OSINT%20Expert&descAlignY=51&descAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Bot+Creator+%26+Automation+Specialist+%F0%9F%A4%96;OSINT+%26+Security+Researcher+%F0%9F%94%8D;Game+Script+Developer+%F0%9F%8E%AE;Mobile+%26+Web+Developer+%F0%9F%93%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;Bot+Creator+%26+Automation+Specialist+%F0%9F%A4%96;OSINT+%26+Security+Researcher+%F0%9F%94%8D;Game+Script+Developer+%F0%9F%8E%AE;Mobile+%26+Web+Developer+%F0%9F%93%B1" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -56,7 +56,7 @@ class Developer {
     };
     
     getMotivation(): string {
-        return "Building innovative solutions, one line of code at a time! 💡";
+        return "Keep coding even though it's tiring! 💡";
     }
 }
 ```
@@ -69,26 +69,27 @@ class Developer {
 
 ### 🌐 Frontend Development
 <p>
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
 </p>
 
 ### ⚙️ Backend & Systems
 <p>
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=lua" alt="Lua" width="60" height="60" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="VS Code" width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="60" height="60" />
+  <img src="https://qu.ax/6oCu1" alt="Antigravity" width="60" height="60" />
 </p>
 
 ### 🤖 Bot Development & Automation
@@ -152,22 +153,14 @@ class Developer {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<h2>GitHub Statistics</h2>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d4e059-bcc6-4c98-a534-c6d5c4d635ff.png" width="50" /> **GitHub Statistics**
+<br>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anos-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anos-rgb&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10" alt="GitHub Streak" />
-</div>
+<br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anos-rgb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=10&langs_count=10&count_private=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anos-rgb&custom_title=Contribution%20Activity&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anos-rgb&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anos-rgb&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -222,17 +215,25 @@ end
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f9384c9c-4877-43c8-a4b4-4300092e8d4e.gif" width="50" /> **Connect With Me**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
+  
+### 👁️ Profile Analytics
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anos-rgb)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=anos-rgb&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
-</div>
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+
+<br><br>
+
+### 🔥 GitHub Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anos-rgb&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -248,29 +249,19 @@ end
 
 <br><br>
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anos-rgb/anos-rgb/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anos-rgb/anos-rgb/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anos-rgb/anos-rgb/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br><br>
-
 ## 💭 Developer Quote
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**"First, solve the problem. Then, write the code."** 💻
+**"i hate and love error."** 
 
-**"Code is poetry written for machines."** 🎨
+**"coding is fun for me."**
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-**Made with 💙 by anos**
+**anos that i'm?**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
